@@ -3,10 +3,10 @@
 Práctica de Programacion Avanzada 1 - UPSE
 
 
-Luis Torres
+Keyla Holguin
 
 
-# Cómo ejecutar este proyecto
+# Como Ejecutar el proyecto:
 
 Para ejecutar este proyecto, sigue estos pasos:
 1. Asegúrate de tener instalado Python 3.x en tu sistema.
